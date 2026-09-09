@@ -21,13 +21,13 @@ The CRM doesn't fit how reps actually work, so they never adopt it. It doesn't h
 - [x] Value (do they want it?)
 - [x] Usability (can they use it?)
 - [ ] Feasibility (can we build it?)
-- [ ] Viability (should we?)
+- [x] Viability (should we?)
 
 ## Kill switch
 
 _The result that would make you stop or pivot._
 
-If reps still prefer their spreadsheet after the redesign, the tool isn't the blocker, pivot.
+If reps daily use drops off and logged activities fall, the tool isn't the blocker, pivot.
 
 ## The three ingredients
 
@@ -41,14 +41,4 @@ If reps still prefer their spreadsheet after the redesign, the tool isn't the bl
   - "It's faster to keep my deals in a spreadsheet than to fight the CRM's eight required fields.", Account exec, 2 logins / month
   - "I never know where the thing I need lives. Every screen looks like a settings page.", Sales rep, onboarded but inactive
   - "If it could just tell me who to call next, I'd open it every morning.", SDR, occasional user
-- **Hypothesis (above):** ✓
-
-_The result that would make you stop or pivot._
-
-_____
-
-## The three ingredients
-
-- **Real data (domain metrics):** _____
-- **User voice (verbatim quotes):** _____
 - **Hypothesis (above):** ✓
