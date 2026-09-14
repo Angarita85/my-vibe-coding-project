@@ -169,25 +169,14 @@ Verify that the "How do I unblock this deal?" CTA still routes correctly to Unbl
 
 ## Reusable techniques learned
 
-- _____
-- _____
+- Using the readme and the framework helped to refine my prompts versus me authoring all of the details myself. What the prompt generated was good enough for what I wanted even though it wasn't an exact match.
+- Generating the chain one piece at a time was helpful. It allowed me to check that nothing broke.
 
 ## What broke (and the fix)
 
 _Where a single mega-prompt failed and chaining fixed it._
 
-_____
+Thankfully nothing broke so I didn't have to fix it
 
-**Expects in:** _____
-**Produces out:** _____
-
-## Reusable techniques learned
-
-- _____
-- _____
-
-## What broke (and the fix)
-
-_Where a single mega-prompt failed and chaining fixed it._
 
 _____
