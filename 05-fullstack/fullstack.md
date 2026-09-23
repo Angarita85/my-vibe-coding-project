@@ -31,6 +31,6 @@ A rep can see, create, edit and delete only their own rows. Enforced on all six 
 
 ## Stress test results
 
-_What you threw at it, and what held / broke._
+I tried spam clicking. It held the line and did not break.
 
 _____
