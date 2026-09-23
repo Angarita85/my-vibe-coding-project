@@ -8,16 +8,6 @@ https://reps-relay.lovable.app
 
 _____
 
-# Full-Stack: Data, Access Rules, Edge Cases, Deploy
-
-> Module 5 · Full-Stack. Add data schemas, access rules, and edge cases; stress-test and deploy.
-
-## Deployed link
-
-_The working, shareable link that survives real users._
-
-_____
-
 ## Data schema
 
 | Entity | Key fields | Notes |
