@@ -4,7 +4,7 @@
 
 ## Deployed link
 
-_The working, shareable link that survives real users._
+https://reps-relay.lovable.app
 
 _____
 
