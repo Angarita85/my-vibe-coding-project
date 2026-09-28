@@ -16,7 +16,7 @@ _Analytics snapshot: visitors 2; page views 18; views per visit 9; duration 15m 
 
 | Change | Hypothesis | Result |
 |---|---|---|
-| _____ | _____ | _____ |
+| Peer feedback exposes something more important: users encountered friction and ambiguity in areas adjacent to the core job—account creation, team management, roles, and the leaderboard. | Remove onboarding/admin friction that has nothing to do with the job | Tool now has a pathway for someone to test out the functionality without needing a login |
 
 ## Peer feedback
 
@@ -27,14 +27,18 @@ I updated the team member role and the screen changed to Team with only Quarter 
 
 ## The recommendation
 
-**Decision:** ☐ Go  ☐ Iterate  ☐ Kill
+**Decision:** ☐ Go  ☑ Iterate  ☐ Kill
 
 _The evidence that justifies the call:_
+
+Users are staying on the site and not leaving. However they are on more pages than expecting signaling that the workflow could be simplified.
 
 _____
 
 ## Final showcase
 
-- **Demo link:** _____
-- **The one-sentence story:** _____
-- **Where it landed on the Confidence Line (M2 → now):** _____
+- **Demo link:** https://reps-relay.lovable.app
+- **The one-sentence story:** This product encourages sales reps to abandon their spreadsheets and adopt a gamified experience to track their leads
+- **Where it landed on the Confidence Line (M2 → now):** still iterating to prove hypothesis
+ating to prove hypothesis
+
